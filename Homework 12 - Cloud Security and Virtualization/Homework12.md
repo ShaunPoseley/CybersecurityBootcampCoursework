@@ -66,8 +66,6 @@ When you are finished with this assignment, you should have a network diagram th
 
 This document can be used as part of a portfolio to demonstrate your ability.
 
-### Instructions
-
 ![](images\my-network-diagram.png)
 
 ---
