@@ -73,7 +73,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
 Submit a screen shot of your report and the answer to the questions above.
 
-![](CybersecurityBootcampCoursework/Homework%2018%20-%20SIEMs/images/Upload%20and%20Download%20Eval%20Commands.png)
+![](images/eval-commands.png)
  
 ### Step 2: Are We Vulnerable? 
 
@@ -87,10 +87,10 @@ Submit a screen shot of your report and the answer to the questions above.
    - [Nessus Scan Results](resources/nessus_logs.csv)
 
 2. Create a report that shows the `count` of critical vulnerabilities from the customer database server.
-![](CybersecurityBootcampCoursework\Homework_18_-_SIEMs\images\Critical_Vulnerabilities_Statistics_and_Command.png)
+![](images/vulns-and-stats-command.png)
 
 3. Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, have an alert emailed to `soc@vandalay.com`.
-![](CybersecurityBootcampCoursework/Homework%2018%20-%20SIEMs/images/Upload%20and%20Download%20Eval%20Commands.png)
+![](images/alert-crit-vuln.png)
 
 Submit a screenshot of your report and a screenshot of proof that the alert has been created.
 
@@ -114,7 +114,7 @@ Submit a screenshot of your report and a screenshot of proof that the alert has 
 3. Determine a baseline of normal activity and a threshold that would alert if a brute force attack is occurring.
      - I chose my threshold as 5 because I find it unlikely that somebody would input their credentials incorrectly 5 times in a row, and this would alert the SOC team to a potential Brute Force attack as quickly as possible.
 4. Design an alert to check the threshold every hour and email the SOC team at SOC@vandalay.com if triggered. 
-![](CybersecurityBootcampCoursework\Homework_18_-_SIEMs\images\Brute_Force_Attack_Alert.png)
+![](images/brute-attack-alert.png)
      
 Submit the answers to the questions about the brute force timing, baseline and threshold. Additionally, provide a screenshot as proof that the alert has been created.
  
