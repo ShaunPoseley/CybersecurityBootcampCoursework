@@ -66,20 +66,6 @@ When you are finished with this assignment, you should have a network diagram th
 
 This document can be used as part of a portfolio to demonstrate your ability.
 
-### Instructions
-
-Use a free account at [draw.io](https://app.diagrams.net/) to diagram the entire cloud network you have created.
-
-    - Your diagram should show the following:
-        - Azure resource group
-        - Virtual network with IP address range
-        - Subnet range
-        - Flow of specific traffic (e.g., HTTP, SSH)
-        - Security group blocking traffic
-        - Load balancer
-        - All 4 VMs that you have launched 
-        - Where Docker and Ansible are deployed
-
 ![](images\my-network-diagram.png)
 
 ---
