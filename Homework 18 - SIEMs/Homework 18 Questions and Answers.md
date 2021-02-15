@@ -73,7 +73,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
 Submit a screen shot of your report and the answer to the questions above.
 
-![](CybersecurityBootcampCoursework/blob/main/Homework%2018%20-%20SIEMs/images/Upload%20and%20Download%20Eval%20Commands.png)
+![](CybersecurityBootcampCoursework/Homework%2018%20-%20SIEMs/images/Upload%20and%20Download%20Eval%20Commands.png)
  
 ### Step 2: Are We Vulnerable? 
 
@@ -90,7 +90,7 @@ Submit a screen shot of your report and the answer to the questions above.
 ![](CybersecurityBootcampCoursework\Homework_18_-_SIEMs\images\Critical_Vulnerabilities_Statistics_and_Command.png)
 
 3. Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, have an alert emailed to `soc@vandalay.com`.
-![](Homework%2018%20-%20SIEMs/images/Upload%20and%20Download%20Eval%20Commands.png)
+![](CybersecurityBootcampCoursework/Homework%2018%20-%20SIEMs/images/Upload%20and%20Download%20Eval%20Commands.png)
 
 Submit a screenshot of your report and a screenshot of proof that the alert has been created.
 
